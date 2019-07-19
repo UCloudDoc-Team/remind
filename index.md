@@ -1,7 +1,7 @@
-## 用户提醒
-
 {{indexmenu_n>5}}
 
-[](/account/remind/overduealarm)
+## 用户提醒
 
-[余额告警](/account/remind/shortbalancealarm)
+**目录**
+
+{{indexmenu>:account:remind#1 | nsort dsort msort}} 
