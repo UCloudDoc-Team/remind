@@ -1,7 +1,7 @@
 # 资源创建通知
 
 ## 一、启用订阅
-进入[UMON](https://console.ucloud.cn/umon/umsg)
+进入[UMON](https://console.ucloud.cn/umon/umsg)， 启用资源创建通知
 ![](/images/set.png)
 
 
